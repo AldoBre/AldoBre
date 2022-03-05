@@ -18,6 +18,8 @@
   ## 🛠 &nbsp;Tech Stack
   <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6">
   <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5">
+  <img src="https://img.shields.io/badge/-Debian-05122A?style=flat&logo=debian&logoColor=CE0056">
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC">
 </div>
  
   ## 💬 Contato
