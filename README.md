@@ -1,6 +1,7 @@
 <h2>Olá, eu sou o Aldo Bressan</h2>
 
-- 🌱 Atualmente estou iniciando os estudos em Desenvolvimento WEB
+- 🌱 Atualmente estou no primeiro semestre do curso técnico em Informática para Internet, ministrado pelo <a href="https://cursos.sesisenai.org.br/detalhes/tecnico-em-informatica-para-internet/30078"><img width="100" id="logo-site" src="https://cursos.sesisenai.org.br/images/logos/sesi-senai.webp" alt="SESI" class="mr-2 mb-1">
+
 
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/aldo-bressan">
