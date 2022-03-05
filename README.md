@@ -4,8 +4,8 @@
 
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/aldo-bressan">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AldoBre&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldoBre&layout=compact&langs_count=7&theme=dark"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AldoBre&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldoBre&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <div style="display: inline_block"><br>
@@ -16,7 +16,7 @@
   
 ##
   
-  <a href = "mailto:aldobresssan@hotmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png"></a>
+  <a href ="mailto:aldobresssan@hotmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png"></a>
   <a href="https://www.linkedin.com/in/aldo-bressan" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"></a>   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
