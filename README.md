@@ -2,7 +2,7 @@
 
 - Atualmente estou no primeiro semestre do curso técnico em Informática para Internet, ministrado pelo <a href="https://cursos.sesisenai.org.br/detalhes/tecnico-em-informatica-para-internet/30078"><img width="100" id="logo-site" src="https://cursos.sesisenai.org.br/images/logos/sesi-senai.webp" alt="SESI" class="mr-2 mb-1"></a>;<br>
   
-- O Objetivo do curso é desenvolvermos um Ecommerce funcional, utilizando HTML, CSS e JavaScript;
+- O Objetivo do curso é desenvolvermos um Ecommerce funcional, utilizando HTML, CSS, JavaScript, Node.js e MySQL;
   
 - Vou colocar todo o processo de aprendizagem do curso e também alguns projetos pessoais aqui no GuitHub, para ter um histórico da minha evolução!
 
@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5">
   <img src="https://img.shields.io/badge/-Debian-05122A?style=flat&logo=debian&logoColor=CE0056">
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC">
+  <img src="https://img.icons8.com/color/344/c-sharp-logo.png">
 </div>
  
   ## 💬 Contato
