@@ -27,5 +27,5 @@
   ## 💬 Contato
   <a href ="mailto:aldobresssan@hotmail.com"><img src="https://img.shields.io/badge/-Aldo%20Bressan-05122A?style=flat&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/aldo-bressan" target="_blank"><img src="https://img.shields.io/badge/-Aldo%20Bressan-05122A?style=flat&logo=linkedin&logoColor=0e76a8"></a>   
-  ![Snake animation](https://github.com/aldobre/aldobre/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/AldoBre/AldoBre/blob/output/github-contribution-grid-snake.svg)
  
