@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5">
   <img src="https://img.shields.io/badge/-Debian-05122A?style=flat&logo=debian&logoColor=CE0056">
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC">
-  <img src="https://img.icons8.com/color/344/c-sharp-logo.png">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div>
  
   ## 💬 Contato
