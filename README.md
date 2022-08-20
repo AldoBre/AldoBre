@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/-Debian-05122A?style=flat&logo=debian&logoColor=CE0056">
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC">
   <img src="https://img.shields.io/badge/--05122A?style=flat&logo=C&logoColor=1572B6">
+  <img src="https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma&logoColor=%22">
   
 </div>
  
