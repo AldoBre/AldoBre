@@ -1,6 +1,6 @@
 <h1 align="left">Olá <img width="50" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Aldo Bressan</h1>
 
-- Atualmente estou no primeiro semestre do curso técnico em Informática para Internet, ministrado pelo <a href="https://cursos.sesisenai.org.br/detalhes/tecnico-em-informatica-para-internet/30078"><img width="100" id="logo-site" src="https://cursos.sesisenai.org.br/images/logos/sesi-senai.webp" alt="SESI" class="mr-2 mb-1"></a>;<br>
+- Atualmente estou no segundo semestre do curso técnico em Informática para Internet, ministrado pelo <a href="https://cursos.sesisenai.org.br/detalhes/tecnico-em-informatica-para-internet/30078"><img width="100" id="logo-site" src="https://cursos.sesisenai.org.br/images/logos/sesi-senai.webp" alt="SESI" class="mr-2 mb-1"></a>;<br>
   
 - O Objetivo do curso é desenvolvermos um Ecommerce funcional, utilizando HTML, CSS, JavaScript, Node.js e MySQL;
   
