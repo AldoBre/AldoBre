@@ -1,6 +1,6 @@
 <h1 align="left">Olá <img width="50" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Aldo Bressan</h1>
 
-- Atualmente estou no segundo semestre do curso técnico em Informática para Internet, ministrado pelo <a href="https://cursos.sesisenai.org.br/detalhes/tecnico-em-informatica-para-internet/30078"><img width="100" id="logo-site" src="https://cursos.sesisenai.org.br/images/logos/sesi-senai.webp" alt="SESI" class="mr-2 mb-1"></a>;<br>
+- Atualmente estou no terceiro semestre do curso técnico em Informática para Internet, ministrado pelo <a href="https://cursos.sesisenai.org.br/detalhes/tecnico-em-informatica-para-internet/30078"><img width="100" id="logo-site" src="https://cursos.sesisenai.org.br/images/logos/sesi-senai.webp" alt="SESI" class="mr-2 mb-1"></a>;<br>
   
 - O Objetivo do curso é desenvolvermos um Ecommerce funcional, utilizando HTML, CSS, JavaScript, Node.js e MySQL;
   
@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6">
   <img src ="https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript&logoColor">
   <img src="https://img.shields.io/badge/-Debian-05122A?style=flat&logo=debian&logoColor=CE0056">
-  <img src="https://img.shields.io/badge/--05122A?style=flat&logo=C&logoColor=1572B6">
+  <img src="https://img.shields.io/badge/-Vue.JS-05122A?style=flat&logo=vue.JS&logoColor">
   <img src="https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma&logoColor=%22">
   
 </div>
