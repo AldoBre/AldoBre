@@ -1,6 +1,3 @@
-<h1 align="left">Olá <img width="50" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Aldo Bressan</h1>
-
-
 
 
 <div style="display: inline_block">
